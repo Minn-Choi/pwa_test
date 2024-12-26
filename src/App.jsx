@@ -10,7 +10,7 @@ function App() {
           <img src={Logo} className="logo" alt="logo" />
         </a>
       </div>
-      <h2>PWA TEST 해보기 <br/>🤓</h2>
+      <h2>PWA TEST 해보기 <br/>🤓♥️</h2>
     </>
   )
 }
